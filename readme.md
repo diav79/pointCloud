@@ -1,3 +1,5 @@
+#Point Cloud from Disparity Map
+
 The code takes stereo image pair and disparity map as input (hard coded) and generates point cloud. The disparity map is generated using SPS Stereo. SGBM can also be used here.
 
 Prerequisite: OpenCV, Point Cloud Library (http://pointclouds.org/), and (optional) SPS Stereo (https://github.com/vbodlloyd/StereoSegmentation).
